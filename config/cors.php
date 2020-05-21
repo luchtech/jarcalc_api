@@ -19,7 +19,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['*'],
+    'allowed_origins' => ['*, *.herokuapp.com, jarcalculator.herokuapp.com/*'],
 
     'allowed_origins_patterns' => [],
 
